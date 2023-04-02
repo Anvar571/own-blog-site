@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Abount() {
+function About() {
   return (
     <div>
       <h1>About</h1>
@@ -8,4 +8,4 @@ function Abount() {
   )
 }
 
-export default Abount
+export default About
